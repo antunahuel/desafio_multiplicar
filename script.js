@@ -51,7 +51,7 @@ function main() {
         let respuestaNumeroFactorial=factorial(ingresoNumero);
         document.writeln(respuestaNumeroFactorial);
     } else {
-        alert("el número esta fuera de rango debe ingresar del 1 al 20, usted ingreso", ingresoNumero);
+        alert("el número esta fuera de rango debe ingresar del 1 al 20");
     }
 }
 
